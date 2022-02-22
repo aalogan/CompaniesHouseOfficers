@@ -42,7 +42,7 @@ The next step was to extract the gender of each officer based solely on the name
 
 Plotting the results obtained from analysing the percentage of female officers by size of company board, we can see that overall the female representation is not marvellous at 17%, but with some encouraging signs of a trend to higher percentages with larger boards (with anomalies). Plenty of room for improvement!<br />
 
-<img src = "assets/percentfemoffs.png"><br />
+<img src = "Assets/percentfemoffs.png"><br />
 
 ## Connectedness
 
@@ -50,20 +50,20 @@ The last part of the exercise was to look at how interconnected UK PLC boards we
 For this part of the exercise, I looked at a subset of the data (with board sizes of 5 or more) to enable usable output. I looked at two areas;<br />
 * the connected nodes - firstly the whole dataset;<br />
 
-<img src = "assets/5all.png"><br />
+<img src = "Assets/5all.png"><br />
 
 and secondly the largest component - this seems to be large, indicating a significant number of multiple directorships;<br />
 
 
-<img src = "assets/5largestcomponent.png"><br />
+<img src = "Assets/5largestcomponent.png"><br />
  
 * the degree of connectivity (how many connections each director has) - firstly a histogram of the distribution (which seems to have high frequencies in the 5 and 10 directorship buckets);<br />
 
-<img src = "assets/deg5hist.png"><br />
+<img src = "Assets/deg5hist.png"><br />
 
 and secondly the most connected officers (consistent with the above - showing an area for attention regarding multiple directorships);<br />
 
-<img src = "assets/deg5top.png"><br />
+<img src = "Assets/deg5top.png"><br />
 
 ## Future Ideas
 There are certainly plenty of areas for further exploration, but the most interesting from my point of view would be;<br />
